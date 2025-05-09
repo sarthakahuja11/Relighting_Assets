@@ -1,3 +1,4 @@
 # Relighting_Assets
 Relighting assests using deep learning
-update
+
+Update: Add updated code and new approach for camera calibration project
